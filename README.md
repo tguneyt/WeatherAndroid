@@ -1,7 +1,6 @@
 # 🌦 Weather Application - Android
 
-![2025-03-09_143216](https://github.com/user-attachments/assets/3d85a207-5a97-4d7f-87dc-ee3670e6dbb9)
-
+![wAPP](https://github.com/user-attachments/assets/fd97fd5a-37b3-4d15-9e94-7958028fa670)
 
 ## 📌 General Information
 This is the Android version of the Weather Application, built with Java and XML, using SQLite for local data storage. The app fetches real-time weather information from an API and allows users to search for cities, check temperature, and view weather conditions.
